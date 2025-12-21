@@ -1,4 +1,4 @@
-# DH backdoor (Mr. Wong)
+# DH backdoor (Mr. Wong) (hard)
 
 ## Условие
 Даны `n` и `c`, где `c = 3^FLAG mod n`.  
